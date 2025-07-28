@@ -1,7 +1,6 @@
 # iRLS_Metagenomic
-## :page_facing_up: Repository Structure
+## :page_facing_up: R Analysis Pipeline 
 
-.
 ├── 0_Preprocessing_iRLS2_Metagenomics_OK.R
 ├── 1_iRLS2_Phyloseq_PhylogeneticTree_OK.R
 ├── 2_iRLS2_Metagenomics_Shrink_BigDataAnalysis_OK
