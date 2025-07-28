@@ -1,193 +1,102 @@
-SampleID	Group	Group2	Group3	Group4	Age	Psichiatrico	tipo	Sesso	BMI1	BMI2	EarlyLateonset1	EarlyLateonset2	Durata1	Durata2	SM	SREDNES	Osa	insonnia	IRLSS1	IRLSS2	ISI1	ISI2	PSQI	Duratainsonnia(anni)	Terapia	Terapia2	dopaagonisti	gabaergici	insonniasubtype	Comorbiditasonno	Bach	BDI-II
-1514431congelatoDNAestrattodaloro	Monti	Monti	Monti																												1	
-20274congelatoDNAestrattodaloro	Monti	Monti	Monti																												1	
-2PPGB0001	PD	PD	PD																												1	
-2PPGB0010	PD	PD	PD																												1	
-2PPGB0011	PD	PD	PD																												1	
-2PPGB0013	PD	PD	PD																												1	
-2PPGB0024	PD	PD	PD																												1	
-2PPGB0034	PD	PD	PD																												1	
-2PPGB0035	PD	PD	PD																												1	
-2PPGB0038	PD	PD	PD																												1	
-2PPGB0048	PD	PD	PD																												1	
-2PPGB0049	PD	PD	PD																												1	
-2PPGB0050	PD	PD	PD																												1	
-2PPGB0058	PD	PD	PD																												1	
-2PPGB0059	PD	PD	PD																												1	
-2PPGB0067	PD	PD	PD																												1	
-2PPGB0068	PD	PD	PD																												1	
-2PPGB0074	PD	PD	PD																												1	
-2PPGB0076	PD	PD	PD																												1	
-2PPGB0078	PD	PD	PD																												1	
-2PPGB0080	PD	PD	PD																												1	
-2PPGB0084	PD	PD	PD																												1	
-2PPGB0085	PD	PD	PD																												1	
-2PPGB0088	PD	PD	PD																												1	
-2PPGB0097	PD	PD	PD																												1	
-bianco	blank	blank	blank																												1	
-IRLS001	iRLS	iRLS	iRLS	iRLS_I	83	NO		F	29.38	sovra	ealry (pediatrica)	early	71	long	sm		0	contemporanea	22	severa	8	lieve	9		monoterapia	monoterapia	0	1			1	
-IRLS001rep	iRLS	REP	REP		83	NO		F	29.38	sovra	ealry (pediatrica)	early	71	long	sm		0	contemporanea	22	severa	8	lieve	9		monoterapia	monoterapia	0	1			1	
-IRLS002	iRLS	iRLS	iRLS	iRLS_I	77	NO		F	29.14	sovra	late	late	18	long	sm		0	contemporanea	20	moderata	7	lieve	11		monoterapia	monoterapia	1	0			1	3
-IRLS002rep	iRLS	REP	REP		77	NO		F	29.14	sovra	late	late	18	long	sm		0	contemporanea	20	moderata	7	lieve	11		monoterapia	monoterapia	1	0			1	3
-IRLS003	iRLS	iRLS	iRLS	iRLS_I	82	NO		M	22.41	normo	late	late	7	short	m		1	successiva	21	severa	13	lieve	18		politerapia	politerapia	1	1			1	5
-IRLS005	iRLS	iRLS	iRLS	iRLS_P	76	SI	depressione	F	31.61	OB 1	late	late	12	short	sm		1	precedente	20	moderata	6	lieve	8		monoterapia	monoterapia	1	0			1	8
-IRLS005rep	iRLS	REP	REP		76	SI	depressione	F	31.61	OB 1	late	late	12	short	sm		1	precedente	20	moderata	6	lieve	8		monoterapia	monoterapia	1	0			1	8
-IRLS006	iRLS	iRLS	REP		42	NO		F	38.05	OB 2	ealry (pediatrica)	early	36	long	sm		1		19	moderata	0	lieve	16				0	0			1	7
-IRLS007	iRLS	iRLS	iRLS	iRLS_I	71	SI	depressione	F	25.39	sovra	early	early	51	long	m	nes	0	successiva	12	moderata	4	lieve	1		monoterapia	monoterapia	0	1			1	9
-IRLS008	iRLS	iRLS	REP		70	SI	depressione	F	29.38	sovra	ealry (pediatrica)	early	64	long	sm		1	contemporanea	34	molto severa	12	lieve	18		politerapia	politerapia	1	1			1	
-IRLS009	CTRL	CTRL	REP		76	NO		M	23.94	normo																					1	
-IRLS010	CTRL	CTRL	REP		70	NO		M	25.01	sovra																					1	
-IRLS011	iRLS	iRLS	REP		53	SI	Depressione+ansia	F	29.34	sovra	early	early	24	long	m	nes	1	precedente	14	moderata	4	lieve	18				0	0			1	6
-IRLS012	iRLS	iRLS	REP		73	SI	ansia	F	37.18	OB 2	late	late	13	short	m		1	contemporanea	24	severa	11	lieve	12		politerapia	politerapia	1	0			1	14
-IRLS013	iRLS	iRLS	REP		53	SI	Depressione+ansia	F	18.52	sotto	early	early	9	short	sm		0	precedente	30	severa	14	lieve	17		politerapia	politerapia	1	0			1	3
-IRLS014	iRLS	iRLS	REP		77	SI	Depressione+ansia	M	33.56	OB 1	late	late	25	long	m	nes	1	contemporanea	28	severa	12	lieve	11		monoterapia	monoterapia	1	0			1	1
-IRLS015	iRLS	iRLS	REP		48	SI	ansia	F	23.51	normo	early	early	18	long	m		1	precedente	18	moderata	9	lieve	15		politerapia	politerapia	1	1			1	4
-IRLS016	iRLS	iRLS	REP		54	NO		F	21.8	normo	late	late	5	short	sm		0	contemporanea	32	molto severa	22	severa	16				0	0			1	0
-IRLS017	iRLS	iRLS	REP		62	SI	Depressione+ansia	F	40.48	OB 3	late	late	12	short	m	nes+sred	1	precedente	29	severa	16	moderata	15				0	0			1	11
-IRLS018	CTRL	CTRL	REP		76	NO		F	26.44	sovra																					1	
-IRLS019	iRLS	iRLS	iRLS	iRLS_I	88	NO		M	27.56	sovra	late	late	21	long	m		1	successiva	29	severa	12	lieve	13		monoterapia	monoterapia	1	0			1	
-IRLS020	iRLS	iRLS	iRLS	iRLS_I	67	NO		M	26.03	sovra	late	late	5	short	sm		1	contemporanea	22	severa	8	lieve	9		monoterapia	monoterapia	0	1			1	
-IRLS021	iRLS	iRLS	REP		72	SI	Depressione+ansia	M	22.46	normo	late	late	20	long	sm		1	successiva	0	lieve	0	lieve	11		politerapia	politerapia	1	1			1	0
-IRLS022	iRLS	iRLS	REP		72	NO		F	25.14	sovra	early	early	42	long	sm		0	successiva	11	moderata	6	lieve	13				0	0			1	4
-IRLS023	CTRL	CTRL	REP		69	NO		F	21.68	normo																					1	
-IRLS024	iRLS	REP	REP		54	NO		F	24.39	normo	late	late	6	short	m	nes	0	precedente	23	severa	10	lieve	11				0	0			1	16
-IRLS024bis	iRLS	iRLS	iRLS	iRLS_P	54	NO		F	24.39	normo	late	late	6	short	m	nes	0	precedente	23	severa	10	lieve	11		nessuna	nessuna	0	0			1	16
-IRLS025	iRLS	iRLS	REP		62	SI	Depressione+ansia	F	39.45	OB 2	late	late	11	short	m		0	precedente	11	moderata	0	lieve	8		monoterapia	monoterapia	0	0			1	7
-IRLS026	iRLS	iRLS	REP		66	NO		F	24.46	normo	early	early	42	long	m		0		8	lieve	0	lieve	10		monoterapia	monoterapia	1	0			1	0
-IRLS027	iRLS	iRLS	iRLS	iRLS_I	36	SI	Depressione+ansia	M	19.59	normo	early	early	18	long	sm		0	successiva	13	moderata	7	lieve	11		monoterapia	monoterapia	1	0			1	1
-IRLS028	iRLS	iRLS	REP		67	SI	Depressione+ansia	F	24.09	normo	late	late	9	short	sm		1	successiva	0	lieve	0	lieve	16		monoterapia	monoterapia	0	1			1	8
-IRLS028bis	iRLS	REP	REP		67	SI	Depressione+ansia	F	24.09	normo	late	late	9	short	sm		1	successiva	0	lieve	0	lieve	16		monoterapia	monoterapia	0	1			1	8
-IRLS029	iRLS	iRLS	REP		76	NO		F	26.64	sovra	late	late	11	short	sm		0	contemporanea	27	severa	5	lieve	22		monoterapia	monoterapia	1	0			1	6
-IRLS031	iRLS	iRLS	REP		68	SI	depressione	F	21.56	normo	late	late	15	long	sm		0	precedente	0	lieve	8	lieve	9		monoterapia	monoterapia	0	0			1	14
-IRLS032	iRLS	iRLS	REP		50	NO		F	21.09	normo	ealry (pediatrica)	early	35	long	sm		0		15	moderata	0	lieve	4				0	0			1	6
-IRLS032bis	iRLS	REP	REP		50	NO		F	21.09	normo	ealry (pediatrica)	early	35	long	sm		0		15	moderata	0	lieve	4				0	0			1	6
-IRLS033	iRLS	iRLS	REP		57	SI	Depressione+ansia	F	30.12	OB 1	ealry (pediatrica)	early	40	long	sm		1		19	moderata	0	lieve	18				0	0			1	11
-IRLS034	iRLS	iRLS	REP		56	SI	depressione	F	29.69	sovra	early	early	31	long	sm		1		26	severa	0	lieve	19		monoterapia	monoterapia	0	1			1	2
-IRLS035	iRLS	iRLS	REP		60	SI	Depressione+ansia	F	29.69	sovra	early	early	33	long	m	nes+sred	1	precedente	26	severa	15	moderata	20		monoterapia	monoterapia	1	0			1	17
-IRLS036	iRLS	iRLS	REP		79	SI	Depressione+ansia	M	26.75	sovra	ealry (pediatrica)	early	63	long	m		1	successiva	22	severa	0	lieve	13		politerapia	politerapia	1	0			1	2
-ISNSIB0001	CTRL	CTRL	CTRL	CTRL	64	NO		M	28.37	sovra																					1	
-ISNSIB0010	CTRL	CTRL	REP		70	NO		F	32.0461	OB 1																					1	
-ISNSIB0011	CTRL	CTRL	REP		68	NO		M	29.4076	sovra																					1	
-ISNSIB0013	CTRL	CTRL	REP		58	NO		F	22.4766	normo																					1	
-ISNSIB0024	CTRL	CTRL	CTRL	CTRL	83	NO		F	22.4323	normo																					1	
-ISNSIB0034	CTRL	CTRL	REP		60	SI	ansia	F	21.7193	normo																					1	
-ISNSIB0035	CTRL	CTRL	REP		50	NO		F	33.0579	OB 1																					1	
-ISNSIB0038	CTRL	CTRL	REP		66	NO		F	19.9792	normo																					1	
-ISNSIB0048	CTRL	CTRL	REP		76	NO		F	26.4855	sovra																					1	
-ISNSIB0049	CTRL	CTRL	REP		62	NO		F	26.8136	sovra																					1	
-ISNSIB0050	CTRL	CTRL	REP		54	NO		F	28.5665	sovra																					1	
-ISNSIB0058	CTRL	CTRL	REP		72	NO		F	25.1039	sovra																					1	
-ISNSIB0059	CTRL	CTRL	CTRL	CTRL	75	NO		M	31.4879	OB 1																					1	
-ISNSIB0067	CTRL	CTRL	REP		58	SI	Depressione	F	23.3067	normo																					1	
-ISNSIB0074	CTRL	CTRL	REP		59	NO		F	19.8141	normo																					1	
-ISNSIB0076	CTRL	CTRL	REP		73	NO		F	21.4844	normo																					1	
-ISNSIB0078	CTRL	CTRL	REP		68	NO		F	35.0128	OB 2																					1	
-ISNSIB0078rep	CTRL	REP	REP		68	NO		F	35.0128	OB 2																					1	
-ISNSIB0080	CTRL	CTRL	REP		52	NO		F	21.875	normo																					1	
-ISNSIB0081	CTRL	CTRL	REP		71	NO		F	23.03	normo																					1	
-ISNSIB0084	CTRL	CTRL	CTRL	CTRL	76	NO		M	28.7197	sovra																					1	
-ISNSIB0085	CTRL	CTRL	REP		56	NO		F	21.3039	normo																					1	
-ISNSIB0087	insonne	insonne	REP		42	NO		F	23.31	normo																			2		1	
-ISNSIB0088	CTRL	CTRL	REP		48	NO		F	29.6875	sovra																					1	
-ISNSIB0090	CTRL	CTRL	REP		46	NO		M	29.8606	sovra																					1	
-ISNSIB0090rep	CTRL	REP	REP		46	NO		M	29.8606	sovra																					1	
-ISNSIB0097	CTRL	CTRL	REP		77	NO		F	24.974	normo																					1	
-ISNSIB0097rep	CTRL	REP	REP		77	NO		F	24.974	normo																					1	
-PelletbufferRLT1514431estrattodanoi	Monti	Monti	Monti																												1	
-Pelletcong1514431estrattodanoi	Monti	Monti	Monti																												1	
-A	BIANCO	BIANCO	BIANCO																												2	
-B	BIANCO	BIANCO	BIANCO																												2	
-C	BIANCO	BIANCO	BIANCO																												2	
-IRLS004	insonne	insonne	insonne	insonne	79	SI	ansiaedepressione	F	20.2												1		16	1		melatonina			1+2		2	11
-IRLS005b2	iRLS	REP	REP		76	SI	depressione	F	31.61	OB1	late	late	12	short	sm		1	precedente	20	moderata	6	lieve	8		monoterapia	monoterapia	1	0			2	8
-IRLS006b2	iRLS	REP	iRLS	iRLS	42	NO		F	38.05	OB2	ealry(pediatrica)	early	36	long	sm		1		19	moderata	0	lieve	16		nessuna	nessuna	0	0			2	7
-IRLS007b2	iRLS	REP	REP		71	SI	depressione	F	25.39	sovra	early	early	51	long	m	nes	0	successiva	12	moderata	4	lieve	1		monoterapia	monoterapia	0	1			2	9
-IRLS008b2	iRLS	REP	iRLS	iRLS_I	70	SI	depressione	F	29.38	sovra	ealry(pediatrica)	early	64	long	sm		1	contemporanea	34	moltosevera	12	lieve	18		politerapia	politerapia	1	1			2	
-IRLS009b2	CTRL	REP	CTRL	CTRL	76	NO		M	23.94	normo																					2	
-IRLS010b2	CTRL	REP	CTRL	CTRL	70	NO		M	25.01	sovra																					2	
-IRLS011b2	iRLS	REP	iRLS	iRLS_P	53	SI	Depressione+ansia	F	29.34	sovra	early	early	24	long	m	nes	1	precedente	14	moderata	4	lieve	18		nessuna	nessuna	0	0			2	6
-IRLS012b2	iRLS	REP	iRLS	iRLS_I	73	SI	ansia	F	37.18	OB2	late	late	13	short	m		1	contemporanea	24	severa	11	lieve	12		politerapia	politerapia	1	0			2	14
-IRLS013b2	iRLS	REP	iRLS	iRLS_P	53	SI	Depressione+ansia	F	18.52	sotto	early	early	9	short	sm		0	precedente	30	severa	14	lieve	17		politerapia	politerapia	1	0			2	3
-IRLS014b2	iRLS	REP	iRLS	iRLS_I	77	SI	Depressione+ansia	M	33.56	OB1	late	late	25	long	m	nes	1	contemporanea	28	severa	12	lieve	11		monoterapia	monoterapia	1	0			2	1
-IRLS015b2	iRLS	REP	iRLS	iRLS_P	48	SI	ansia	F	23.51	normo	early	early	18	long	m		1	precedente	18	moderata	9	lieve	15		politerapia	politerapia	1	1			2	4
-IRLS016b2	iRLS	REP	iRLS	iRLS_I	54	NO		F	21.8	normo	late	late	5	short	sm		0	contemporanea	32	moltosevera	22	severa	16		nessuna	nessuna	0	0			2	0
-IRLS017b2	iRLS	REP	iRLS	iRLS_P	62	SI	Depressione+ansia	F	40.48	OB3	late	late	12	short	m	nes+sred	1	precedente	29	severa	16	moderata	15		nessuna	nessuna	0	0			2	11
-IRLS18	CTRL	REP	CTRL	CTRL	76	NO		F	26.44	sovra																					2	
-IRLS020b2	iRLS	REP	REP		67	NO		M	26.03	sovra	late	late	5	short	sm		1	contemporanea	22	severa	8	lieve	9		monoterapia	monoterapia	0	1			2	
-IRLS021b2	iRLS	REP	iRLS	iRLS_I	72	SI	Depressione+ansia	M	22.46	normo	late	late	20	long	sm		1	successiva	0	lieve	0	lieve	11		politerapia	politerapia	1	1			2	0
-IRLS022b2	iRLS	REP	iRLS	iRLS_I	72	NO		F	25.14	sovra	early	early	42	long	sm		0	successiva	11	moderata	6	lieve	13		nessuna	nessuna	0	0			2	4
-IRLS23	CTRL	REP	CTRL	CTRL	69	NO		F	21.68	normo																					2	
-IRLS024b2	iRLS	REP	iRLS	iRLS_P	54	NO		F	24.39	normo	late	late	6	short	m	nes	0	precedente	23	severa	10	lieve	11		nessuna	nessuna	0	0			2	16
-IRLS025b2	iRLS	REP	iRLS	iRLS_P	62	SI	Depressione+ansia	F	39.45	OB2	late	late	11	short	m		0	precedente	11	moderata	0	lieve	8		monoterapia	monoterapia	0	0			2	7
-IRLS026b2	iRLS	REP	iRLS	iRLS	66	NO		F	24.46	normo	early	early	42	long	m		0		8	lieve	0	lieve	10		monoterapia	monoterapia	1	0			2	0
-IRLS027b2	iRLS	REP	REP		36	SI	Depressione+ansia	M	19.59	normo	early	early	18	long	sm		0	successiva	13	moderata	7	lieve	11		monoterapia	monoterapia	1	0			2	1
-IRLS028b2	iRLS	REP	iRLS	iRLS_I	67	SI	Depressione+ansia	F	24.09	normo	late	late	9	short	sm		1	successiva	0	lieve	0	lieve	16		monoterapia	monoterapia	0	1			2	8
-IRLS029b2	iRLS	REP	iRLS	iRLS_I	76	NO		F	26.64	sovra	late	late	11	short	sm		0	contemporanea	27	severa	5	lieve	22		monoterapia	monoterapia	1	0			2	6
-IRLS031b2	iRLS	REP	iRLS	iRLS_P	68	SI	depressione	F	21.56	normo	late	late	15	long	sm		0	precedente	0	lieve	8	lieve	9		monoterapia	monoterapia	0	0			2	14
-IRLS032b2	iRLS	REP	iRLS	iRLS	50	NO		F	21.09	normo	ealry(pediatrica)	early	35	long	sm		0		15	moderata	0	lieve	4		nessuna	nessuna	0	0			2	6
-IRLS033b2	iRLS	REP	iRLS	iRLS	57	SI	Depressione+ansia	F	30.12	OB1	ealry(pediatrica)	early	40	long	sm		1		19	moderata	0	lieve	18		nessuna	nessuna	0	0			2	11
-IRLS034b2	iRLS	REP	iRLS	iRLS	56	SI	depressione	F	29.69	sovra	early	early	31	long	sm		1		26	severa	0	lieve	19		monoterapia	monoterapia	0	1			2	2
-IRLS035b2	iRLS	REP	iRLS	iRLS_P	60	SI	Depressione+ansia	F	29.69	sovra	early	early	33	long	m	nes+sred	1	precedente	26	severa	15	moderata	20		monoterapia	monoterapia	1	0			2	17
-IRLS036b2	iRLS	REP	iRLS	iRLS_I	79	SI	Depressione+ansia	M	26.75	sovra	ealry(pediatrica)	early	63	long	m		1	successiva	22	severa	0	lieve	13		politerapia	politerapia	1	0			2	2
-IRLS037	CTRL	CTRL	CTRL	CTRL	62			F																							2	
-IRLS038	CTRL	CTRL	CTRL	CTRL	29			M																							2	
-IRLS039	CTRL	CTRL	CTRL	CTRL	33			F																							2	
-IRLS040	iRLS	iRLS	iRLS	iRLS_I	62	NO		F			ealry(pediatrica)	early	52	long	m		0	contemporanea							politerapia	Mirapexin(0.18mg 1cp)+Rivotril(2.5mg)	1	0			2	
-IRLS041	iRLS	iRLS	iRLS	iRLS	66	SI	depressione	F			late	late			m		1								nessuna	nessuna	0	0			2	
-IRLS042	iRLS	iRLS	iRLS	iRLS_I	69	NO		M	36	OB2	late	late	18	long	sm		1	contemporanea							monoterapia	Lyrica 50mg	0	1			2	
-IRLS043	CTRL	CTRL	CTRL	CTRL	51			M																							2	
-IRLS044	CTRL	CTRL	CTRL	CTRL	56			F																							2	
-IRLS045	iRLS	iRLS	iRLS	iRLS	51	NO		M	25	sovra	early(adolescenza)	early	33	long	m		0		20						monoterapia	Lyrica 50mg	0	1			2	
-IRLS046	insonne	insonne	insonne	insonne	59	SI	ansia	F	24.74												15		2	9					1+2	russamento	2	5
-IRLS047	insonne	insonne	insonne	insonne	39	SI	ansia	M	23.8												15		14	2		Valeriana			1+2		2	7
-IRLS048	insonne	insonne	insonne	insonne	62	SI	depressione	F	25.71												5		7	24		z-drugs			2	russamento	2	9
-IRLS049	insonne	insonne	insonne	insonne	78	SI	depressione	F	29.3												15		12	7		melatonina			2	russamento	2	13
-IRLS050	insonne	insonne	insonne	insonne	63	SI	ansia	F	24.01												11		9	2		z-drugs			2		2	2
-IRLS052	iRLS	iRLS	iRLS	iRLS_I	82	SI	depressione	F	25.39	sovra	late	late	20	long	m	nes+sred	1	contemporanea							monoterapia	Lyrica 50mg	0	1			2	
-IRLS053	iRLS	iRLS	iRLS	iRLS_I	62	SI	depressione	F	20.96	sovra	early(adolescenza)	early	47	long	m		0	contemporanea	16						monoterapia	Mirapexin(0.26mg)	1	0			2	
-IRLS054	insonne	insonne	insonne	insonne	61	SI	ansiaedepressione	M	24.38												6		12	3		BDZ			1+2		2	0
-IRLS055	insonne	insonne	insonne	insonne	53	SI	ansiaedepressione	F	29.64												19		11	23		BDZ			2+3	russamento	2	15
-IRLS056	insonne	insonne	insonne	insonne	46	SI	ansia	F	22.03												1		1	2		melatonina			2		2	6
-IRLS057	insonne	insonne	insonne	insonne	56	SI	1(diagnosidiansia,attacchidipanico)	F	24.56												8		1	3		BDZ			2+3		2	2
-IRLS058	insonne	insonne	insonne	insonne	62	NO		F	23.44												1		11	11		Daridorexant+Melatonina			2	russamento	2	5
-IRLS059	insonne	insonne	insonne	insonne	55	SI	ansia	F	20.28												1		13	6		melatonina+CBTi			2	russamento	2	1
-IRLS060	insonne	insonne	insonne	insonne	59	NO		F	20.44												13		13	3		z-drugs			1+2		2	0
-IRLS061	insonne	insonne	insonne	insonne	78	SI	1(diagnosidiansia,depressioneeattacchidipanicointerapiaconParoxetina)	F	21.51												6		11	47		BDZ+Melatonina			2		2	1
-IRLS063	insonne	insonne	insonne	insonne	53	NO		F	24.54												1		12	11		z-drugs+Melatonina+CBTi			2		2	0
-IRLS064	insonne	insonne	insonne	insonne	48	NO		M	22.22												14		13	5		Daridorexant			2+3		2	6
-IRLS065	insonne	insonne	insonne	insonne	66	SI	1(diagnosididepressioneinterapiaconcitaolopram)	F	23.83												8		1	35		pregabalin			2		2	7
-IRLS066	insonne	insonne	insonne	insonne	50	NO		F	20.96												16		12	2		CBTi			2+3	sonniloquio	2	11
-ISNSIB0007	insonne	insonne	insonne	insonne	57	NO		M	23.67																nessuna	nessuna			9		2	
-ISNSIB0010b2	CTRL	REP	CTRL	CTRL	70	NO		F	32.05	OB1																					2	
-ISNSIB0011b2	CTRL	REP	CTRL	CTRL	68	NO		M	29.41	sovra																					2	
-ISNSIB0013b2	CTRL	REP	CTRL	CTRL	58	NO		F	22.48	normo																					2	
-ISNSIB0034b2	CTRL	REP	CTRL	CTRL	60	SI	ansia	F	21.72	normo																					2	
-ISNSIB0035b2	CTRL	REP	CTRL	CTRL	50	NO		F	33.06	OB1																					2	
-ISNSIB0038b2	CTRL	REP	CTRL	CTRL	66	NO		F	19.98	normo																					2	
-ISNSIB0040	insonne	insonne	insonne	insonne	64	NO		F	30.82																nessuna	nessuna			2		2	
-ISNSIB0041	insonne	insonne	insonne	insonne	74	NO		M	23.66																nessuna	nessuna			2		2	
-ISNSIB0044	insonne	insonne	insonne	insonne	84	NO		M	22.15																	BDZ			9		2	
-ISNSIB0048b2	CTRL	REP	CTRL	CTRL	76	NO		F	26.49	sovra																					2	
-ISNSIB0049b2	CTRL	REP	CTRL	CTRL	62	NO		F	26.81	sovra																					2	
-ISNSIB0050b2	CTRL	REP	CTRL	CTRL	54	NO		F	28.57	sovra																					2	
-ISNSIB0058b2	CTRL	REP	CTRL	CTRL	72	NO		F	25.1	sovra																					2	
-ISNSIB0066	insonne	insonne	insonne	insonne	64	NO		M	24.21																nessuna	nessuna			9		2	
-ISNSIB0067b2	CTRL	REP	CTRL	CTRL	58	SI	Depressione	F	23.31	normo																					2	
-ISNSIB0068	insonne	insonne	insonne	insonne	59	NO		F	26.67																nessuna	nessuna			9		2	
-ISNSIB0071	insonne	insonne	insonne	insonne	39	NO		M	27.1																	BDZ			2		2	
-ISNSIB0072	insonne	insonne	insonne	insonne	76	NO		F	26.67																nessuna	nessuna			2		2	
-ISNSIB0074b2	CTRL	REP	CTRL	CTRL	59	NO		F	19.81	normo																					2	
-ISNSIB0076b2	CTRL	REP	CTRL	CTRL	73	NO		F	21.48	normo																					2	
-ISNSIB0078b2	CTRL	REP	CTRL	CTRL	68	NO		F	35.01	OB2																					2	
-ISNSIB0080b2	CTRL	REP	CTRL	CTRL	52	NO		F	21.88	normo																					2	
-ISNSIB0081b2	CTRL	REP	CTRL	CTRL	71	NO		F	23.03	normo																					2	
-ISNSIB0085b2	CTRL	REP	CTRL	CTRL	56	NO		F	21.3	normo																					2	
-ISNSIB0086	insonne	insonne	insonne	insonne	57	NO		F	30																nessuna	nessuna			2		2	
-ISNSIB0087b2	insonne	REP	insonne	insonne	73	NO		F	23.31																nessuna	nessuna			2		2	
-ISNSIB0087bis	insonne	REP	REP		73	NO		F	23.31																nessuna	nessuna			2		2	
-ISNSIB0088b2	CTRL	REP	CTRL	CTRL	48	NO		F	29.69	sovra																					2	
-ISNSIB0090b2	CTRL	REP	CTRL	CTRL	46	NO		M	29.86	sovra																					2	
-ISNSIB0094	insonne	insonne	insonne	insonne	54	NO		F	19.05																nessuna	nessuna			2		2	
-ISNSIB0095	insonne	insonne	insonne	insonne	59	SI	1(diagnosididepressioneinterapiaconParoxetina)	F	30.48																nessuna	nessuna			1+2		2	
-ISNSIB0097b2	CTRL	REP	CTRL	CTRL	77	NO		F	24.97	normo																					2	
-ISNSIB0098	insonne	insonne	insonne	insonne	53	SI	depressione	M	26.3																	BDZ			1+2		2	
+SampleID	Group3	Age	Psichiatrico	tipo	Sesso	BMI1	BMI2	EarlyLateonset1	EarlyLateonset2	Durata1	Durata2	SM	SREDNES	Osa	insonnia	IRLSS1	IRLSS2	ISI1	ISI2	PSQI	Duratainsonnia(anni)	Terapia	Terapia2	dopaagonisti	gabaergici	insonniasubtype	Comorbiditasonno	Bach	BDI-II
+ISNSIB0001	CTRL	64	NO		M	28.37	sovra																					1	
+ISNSIB0024	CTRL	83	NO		F	224.323	normo																					1	
+ISNSIB0059	CTRL	75	NO		M	314.879	OB 1																					1	
+ISNSIB0084	CTRL	76	NO		M	287.197	sovra																					1	
+IRLS009b2	CTRL	76	NO		M	23.94	normo																					2	
+IRLS010b2	CTRL	70	NO		M	25.01	sovra																					2	
+IRLS18	CTRL	76	NO		F	26.44	sovra																					2	
+IRLS23	CTRL	69	NO		F	21.68	normo																					2	
+IRLS037	CTRL	62			F																							2	
+IRLS038	CTRL	29			M																							2	
+IRLS039	CTRL	33			F																							2	
+IRLS043	CTRL	51			M																							2	
+IRLS044	CTRL	56			F																							2	
+ISNSIB0010b2	CTRL	70	NO		F	32.05	OB1																					2	
+ISNSIB0011b2	CTRL	68	NO		M	29.41	sovra																					2	
+ISNSIB0013b2	CTRL	58	NO		F	22.48	normo																					2	
+ISNSIB0034b2	CTRL	60	SI	ansia	F	21.72	normo																					2	
+ISNSIB0035b2	CTRL	50	NO		F	33.06	OB1																					2	
+ISNSIB0038b2	CTRL	66	NO		F	19.98	normo																					2	
+ISNSIB0048b2	CTRL	76	NO		F	26.49	sovra																					2	
+ISNSIB0049b2	CTRL	62	NO		F	26.81	sovra																					2	
+ISNSIB0050b2	CTRL	54	NO		F	28.57	sovra																					2	
+ISNSIB0058b2	CTRL	72	NO		F	25.1	sovra																					2	
+ISNSIB0067b2	CTRL	58	SI	Depressione	F	23.31	normo																					2	
+ISNSIB0074b2	CTRL	59	NO		F	19.81	normo																					2	
+ISNSIB0076b2	CTRL	73	NO		F	21.48	normo																					2	
+ISNSIB0078b2	CTRL	68	NO		F	35.01	OB2																					2	
+ISNSIB0080b2	CTRL	52	NO		F	21.88	normo																					2	
+ISNSIB0081b2	CTRL	71	NO		F	23.03	normo																					2	
+ISNSIB0085b2	CTRL	56	NO		F	21.3	normo																					2	
+ISNSIB0088b2	CTRL	48	NO		F	29.69	sovra																					2	
+ISNSIB0090b2	CTRL	46	NO		M	29.86	sovra																					2	
+ISNSIB0097b2	CTRL	77	NO		F	24.97	normo																					2	
+IRLS004	insonne	79	SI	ansiaedepressione	F	20.2												1		16	1		melatonina			1+2		2	11
+IRLS046	insonne	59	SI	ansia	F	24.74												15		2	9					1+2	russamento	2	5
+IRLS047	insonne	39	SI	ansia	M	23.8												15		14	2		Valeriana			1+2		2	7
+IRLS048	insonne	62	SI	depressione	F	25.71												5		7	24		z-drugs			2	russamento	2	9
+IRLS049	insonne	78	SI	depressione	F	29.3												15		12	7		melatonina			2	russamento	2	13
+IRLS050	insonne	63	SI	ansia	F	24.01												11		9	2		z-drugs			2		2	2
+IRLS054	insonne	61	SI	ansiaedepressione	M	24.38												6		12	3		BDZ			1+2		2	0
+IRLS055	insonne	53	SI	ansiaedepressione	F	29.64												19		11	23		BDZ			2+3	russamento	2	15
+IRLS056	insonne	46	SI	ansia	F	22.03												1		1	2		melatonina			2		2	6
+IRLS057	insonne	56	SI	1(diagnosidiansia,attacchidipanico)	F	24.56												8		1	3		BDZ			2+3		2	2
+IRLS058	insonne	62	NO		F	23.44												1		11	11		Daridorexant+Melatonina			2	russamento	2	5
+IRLS059	insonne	55	SI	ansia	F	20.28												1		13	6		melatonina+CBTi			2	russamento	2	1
+IRLS060	insonne	59	NO		F	20.44												13		13	3		z-drugs			1+2		2	0
+IRLS061	insonne	78	SI	1(diagnosidiansia,depressioneeattacchidipanicointerapiaconParoxetina)	F	21.51												6		11	47		BDZ+Melatonina			2		2	1
+IRLS063	insonne	53	NO		F	24.54												1		12	11		z-drugs+Melatonina+CBTi			2		2	0
+IRLS064	insonne	48	NO		M	22.22												14		13	5		Daridorexant			2+3		2	6
+IRLS065	insonne	66	SI	1(diagnosididepressioneinterapiaconcitaolopram)	F	23.83												8		1	35		pregabalin			2		2	7
+IRLS066	insonne	50	NO		F	20.96												16		12	2		CBTi			2+3	sonniloquio	2	11
+ISNSIB0007	insonne	57	NO		M	23.67																nessuna	nessuna			9		2	
+ISNSIB0040	insonne	64	NO		F	30.82																nessuna	nessuna			2		2	
+ISNSIB0041	insonne	74	NO		M	23.66																nessuna	nessuna			2		2	
+ISNSIB0044	insonne	84	NO		M	22.15																	BDZ			9		2	
+ISNSIB0066	insonne	64	NO		M	24.21																nessuna	nessuna			9		2	
+ISNSIB0068	insonne	59	NO		F	26.67																nessuna	nessuna			9		2	
+ISNSIB0071	insonne	39	NO		M	27.1																	BDZ			2		2	
+ISNSIB0072	insonne	76	NO		F	26.67																nessuna	nessuna			2		2	
+ISNSIB0086	insonne	57	NO		F	30																nessuna	nessuna			2		2	
+ISNSIB0087b2	insonne	73	NO		F	23.31																nessuna	nessuna			2		2	
+ISNSIB0094	insonne	54	NO		F	19.05																nessuna	nessuna			2		2	
+ISNSIB0095	insonne	59	SI	1(diagnosididepressioneinterapiaconParoxetina)	F	30.48																nessuna	nessuna			1+2		2	
+ISNSIB0098	insonne	53	SI	depressione	M	26.3																	BDZ			1+2		2	
+IRLS001	iRLS	83	NO		F	29.38	sovra	ealry (pediatrica)	early	71	long	sm		0	contemporanea	22	severa	8	lieve	9		monoterapia	monoterapia	0	1			1	
+IRLS002	iRLS	77	NO		F	29.14	sovra	late	late	18	long	sm		0	contemporanea	20	moderata	7	lieve	11		monoterapia	monoterapia	1	0			1	3
+IRLS003	iRLS	82	NO		M	22.41	normo	late	late	7	short	m		1	successiva	21	severa	13	lieve	18		politerapia	politerapia	1	1			1	5
+IRLS005	iRLS	76	SI	depressione	F	31.61	OB 1	late	late	12	short	sm		1	precedente	20	moderata	6	lieve	8		monoterapia	monoterapia	1	0			1	8
+IRLS007	iRLS	71	SI	depressione	F	25.39	sovra	early	early	51	long	m	nes	0	successiva	12	moderata	4	lieve	1		monoterapia	monoterapia	0	1			1	9
+IRLS019	iRLS	88	NO		M	27.56	sovra	late	late	21	long	m		1	successiva	29	severa	12	lieve	13		monoterapia	monoterapia	1	0			1	
+IRLS020	iRLS	67	NO		M	26.03	sovra	late	late	5	short	sm		1	contemporanea	22	severa	8	lieve	9		monoterapia	monoterapia	0	1			1	
+IRLS024bis	iRLS	54	NO		F	24.39	normo	late	late	6	short	m	nes	0	precedente	23	severa	10	lieve	11		nessuna	nessuna	0	0			1	16
+IRLS027	iRLS	36	SI	Depressione+ansia	M	19.59	normo	early	early	18	long	sm		0	successiva	13	moderata	7	lieve	11		monoterapia	monoterapia	1	0			1	1
+IRLS006b2	iRLS	42	NO		F	38.05	OB2	ealry(pediatrica)	early	36	long	sm		1		19	moderata	0	lieve	16		nessuna	nessuna	0	0			2	7
+IRLS008b2	iRLS	70	SI	depressione	F	29.38	sovra	ealry(pediatrica)	early	64	long	sm		1	contemporanea	34	moltosevera	12	lieve	18		politerapia	politerapia	1	1			2	
+IRLS011b2	iRLS	53	SI	Depressione+ansia	F	29.34	sovra	early	early	24	long	m	nes	1	precedente	14	moderata	4	lieve	18		nessuna	nessuna	0	0			2	6
+IRLS012b2	iRLS	73	SI	ansia	F	37.18	OB2	late	late	13	short	m		1	contemporanea	24	severa	11	lieve	12		politerapia	politerapia	1	0			2	14
+IRLS013b2	iRLS	53	SI	Depressione+ansia	F	18.52	sotto	early	early	9	short	sm		0	precedente	30	severa	14	lieve	17		politerapia	politerapia	1	0			2	3
+IRLS014b2	iRLS	77	SI	Depressione+ansia	M	33.56	OB1	late	late	25	long	m	nes	1	contemporanea	28	severa	12	lieve	11		monoterapia	monoterapia	1	0			2	1
+IRLS015b2	iRLS	48	SI	ansia	F	23.51	normo	early	early	18	long	m		1	precedente	18	moderata	9	lieve	15		politerapia	politerapia	1	1			2	4
+IRLS016b2	iRLS	54	NO		F	21.8	normo	late	late	5	short	sm		0	contemporanea	32	moltosevera	22	severa	16		nessuna	nessuna	0	0			2	0
+IRLS017b2	iRLS	62	SI	Depressione+ansia	F	40.48	OB3	late	late	12	short	m	nes+sred	1	precedente	29	severa	16	moderata	15		nessuna	nessuna	0	0			2	11
+IRLS021b2	iRLS	72	SI	Depressione+ansia	M	22.46	normo	late	late	20	long	sm		1	successiva	0	lieve	0	lieve	11		politerapia	politerapia	1	1			2	0
+IRLS022b2	iRLS	72	NO		F	25.14	sovra	early	early	42	long	sm		0	successiva	11	moderata	6	lieve	13		nessuna	nessuna	0	0			2	4
+IRLS024b2	iRLS	54	NO		F	24.39	normo	late	late	6	short	m	nes	0	precedente	23	severa	10	lieve	11		nessuna	nessuna	0	0			2	16
+IRLS025b2	iRLS	62	SI	Depressione+ansia	F	39.45	OB2	late	late	11	short	m		0	precedente	11	moderata	0	lieve	8		monoterapia	monoterapia	0	0			2	7
+IRLS026b2	iRLS	66	NO		F	24.46	normo	early	early	42	long	m		0		8	lieve	0	lieve	10		monoterapia	monoterapia	1	0			2	0
+IRLS028b2	iRLS	67	SI	Depressione+ansia	F	24.09	normo	late	late	9	short	sm		1	successiva	0	lieve	0	lieve	16		monoterapia	monoterapia	0	1			2	8
+IRLS029b2	iRLS	76	NO		F	26.64	sovra	late	late	11	short	sm		0	contemporanea	27	severa	5	lieve	22		monoterapia	monoterapia	1	0			2	6
+IRLS031b2	iRLS	68	SI	depressione	F	21.56	normo	late	late	15	long	sm		0	precedente	0	lieve	8	lieve	9		monoterapia	monoterapia	0	0			2	14
+IRLS032b2	iRLS	50	NO		F	21.09	normo	ealry(pediatrica)	early	35	long	sm		0		15	moderata	0	lieve	4		nessuna	nessuna	0	0			2	6
+IRLS033b2	iRLS	57	SI	Depressione+ansia	F	30.12	OB1	ealry(pediatrica)	early	40	long	sm		1		19	moderata	0	lieve	18		nessuna	nessuna	0	0			2	11
+IRLS034b2	iRLS	56	SI	depressione	F	29.69	sovra	early	early	31	long	sm		1		26	severa	0	lieve	19		monoterapia	monoterapia	0	1			2	2
+IRLS035b2	iRLS	60	SI	Depressione+ansia	F	29.69	sovra	early	early	33	long	m	nes+sred	1	precedente	26	severa	15	moderata	20		monoterapia	monoterapia	1	0			2	17
+IRLS036b2	iRLS	79	SI	Depressione+ansia	M	26.75	sovra	ealry(pediatrica)	early	63	long	m		1	successiva	22	severa	0	lieve	13		politerapia	politerapia	1	0			2	2
+IRLS040	iRLS	62	NO		F			ealry(pediatrica)	early	52	long	m		0	contemporanea							politerapia	Mirapexin(0.18mg 1cp)+Rivotril(2.5mg)	1	0			2	
+IRLS041	iRLS	66	SI	depressione	F			late	late			m		1								nessuna	nessuna	0	0			2	
+IRLS042	iRLS	69	NO		M	36	OB2	late	late	18	long	sm		1	contemporanea							monoterapia	Lyrica 50mg	0	1			2	
+IRLS045	iRLS	51	NO		M	25	sovra	early(adolescenza)	early	33	long	m		0		20						monoterapia	Lyrica 50mg	0	1			2	
+IRLS052	iRLS	82	SI	depressione	F	25.39	sovra	late	late	20	long	m	nes+sred	1	contemporanea							monoterapia	Lyrica 50mg	0	1			2	
+IRLS053	iRLS	62	SI	depressione	F	20.96	sovra	early(adolescenza)	early	47	long	m		0	contemporanea	16						monoterapia	Mirapexin(0.26mg)	1	0			2	
