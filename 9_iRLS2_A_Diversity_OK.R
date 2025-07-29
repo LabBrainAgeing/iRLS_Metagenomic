@@ -226,22 +226,6 @@ dev.off()
 pdf(paste0("iRLS2_iSNSIBO_OTU_SM_",i,".pdf"))
 fit<-lm(alpha_diversity ~ SM+Age+Sesso+BMI1+Psichiatrico+Bach, data=iRLS)
 stat<- Anova(fit, type="II",test.statistic="Wald")
-boxplot(iRLS$alpha_diversity ~ iRLS$SM, ylab=i, outline=T,xlab="",,col=c("#fee090","#f46d43"))
-stripchart(iRLS$alpha_diversity ~ iRLS$SM, add=T,vertical=T,pch=16, method="jitter",jitter=0.3,cex=.7)
-mtext(paste0("pVal:",round(summary(fit)[[4]][23],3)," Beta:",round(summary(lm.beta(fit))[[4]][2],3)), side=3)
-for (n in 1:length(levels(factor(iRLS$SM)))) {
- box_x<-n
- temp<-iRLS$alpha_diversity
- box_y<-mean(temp[iRLS$SM==levels(factor(iRLS$SM))[n]], na.rm=T)
- box_w<-0.4
- #segments(box_x-box_w, box_y, box_x+box_w, box_y, lty=2, lwd=2, col="cyan")
- points(box_x, box_y, pch=4, col="dodgerblue4",cex=1.3,lwd=2)
- }
-dev.off()
-
-pdf(paste0("ANGELICA_iRLS2_iSNSIBO_OTU_SM_",i,".pdf"))
-fit<-lm(alpha_diversity ~ SM+Age+Sesso+BMI1+Psichiatrico+Bach, data=iRLS)
-stat<- Anova(fit, type="II",test.statistic="Wald")
 boxplot(iRLS$alpha_diversity ~ factor(iRLS$SM,levels=c("sm","m")), ylab=i, outline=T,xlab="",col=c("#fee090","#f46d43"),names=c("sensory-motor","motor"),ylim=c(2,6))
 stripchart(iRLS$alpha_diversity ~ factor(iRLS$SM,levels=c("sm","m")), add=T,vertical=T,pch=16, method="jitter",jitter=0.3,cex=.7)
 mtext(paste0("pVal:",round(summary(fit)[[4]][23],3)," Beta:",round(summary(lm.beta(fit))[[4]][2],3)), side=3)
