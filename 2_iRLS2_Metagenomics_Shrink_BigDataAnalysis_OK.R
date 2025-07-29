@@ -354,27 +354,6 @@ ps_GENUS = tax_glom(ps2, "Genus", NArm = TRUE)
   sel[] <- lapply(sel, function(x) (gsub("\\<0\\>", NA, x)))
   for (f in 1:nrow(sel)) {
     sel_OTU <- sel[f,"OTU"]
-    sampledata_filt$Group3<-factor(sampledata_filt$Group3,levels=c("CTRL","iRLS","insonne"))
-    Wald_main <- risultati_anova_sign[rownames(risultati_anova_sign)==sel_OTU,grep("Wald",colnames(risultati_anova_sign))]
-    #LRT_main <- risultati_anova_sign[rownames(risultati_anova_sign)==sel_OTU,grep("LRT",colnames(risultati_anova_sign))]
-    boxplot(log10(as.numeric(as.character(sel[f,9:ncol(sel)])))~ sampledata_filt$Group3,outline=T,main=paste0(sel[f,]$Genus,"\nWald:",round(as.numeric(unlist(Wald_main))[1],4)," ",round(as.numeric(unlist(Wald_main))[2],4)),col=c("#7fc97f","#fdc086","#beaed4"),ylab="log10(Abundance)",xlab="",names=c("CTRL","RLS","IN"))
-    stripchart(log10(as.numeric(as.character(sel[f,9:ncol(sel)])))~ sampledata_filt$Group3,col= "black", vertical = TRUE, method = "jitter", add = TRUE, pch = 16,cex=0.7)
-    for (n in 1:length(levels(factor(sampledata_filt$Group3)))) {
- box_x<-n
- temp<-log10(as.numeric(as.character(sel[f,9:ncol(sel)])))
- box_y<-mean(temp[sampledata_filt$Group3==levels(factor(sampledata_filt$Group3))[n]],na.rm=T)
- box_w<-0.4
- #segments(box_x-box_w, box_y, box_x+box_w, box_y, lty=2, lwd=2, col="cyan")
- points(box_x, box_y, pch=4, col="dodgerblue4",cex=1.3,lwd=2)
- }
-}
-  dev.off()
-  
-  pdf(paste0(output_folder,output_file,"_GENUS_sign_boxplots_Group3_ANGELICA.pdf"))
-  sel <- counts_taxa[counts_taxa$Genus %in% sel_for_plots,]
-  sel[] <- lapply(sel, function(x) (gsub("\\<0\\>", NA, x)))
-  for (f in 1:nrow(sel)) {
-    sel_OTU <- sel[f,"OTU"]
     sampledata_filt$Group3<-factor(sampledata_filt$Group3,levels=c("iRLS","insonne","CTRL"))
     Wald_main <- risultati_anova_sign[rownames(risultati_anova_sign)==sel_OTU,grep("Wald",colnames(risultati_anova_sign))]
     #LRT_main <- risultati_anova_sign[rownames(risultati_anova_sign)==sel_OTU,grep("LRT",colnames(risultati_anova_sign))]
