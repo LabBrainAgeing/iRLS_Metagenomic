@@ -7,7 +7,7 @@ This repository contains code and documentation for the analysis of gut microbio
 
 ## 📌 Study Objectives
 
-To analyze the fecal microbiota composition in patients with **idiopathic Restless Legs Syndrome (RLS)** and investigate its relationship with different **RLS clinical phenotypes**.
+To analyze the fecal microbiota composition in patients with **idiopathic Restless Legs Syndrome (RLS)** and investigate its relationship with different **RLS clinical features**.
 
 ---
 
